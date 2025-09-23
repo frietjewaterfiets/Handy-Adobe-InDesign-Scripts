@@ -13,7 +13,9 @@ These scripts let you instantly resize shapes and image frames to perfectly fill
 7. Assign keyboard shortcuts for rapid use:
 
 **Recommended:**
+
 Ctrl + Alt + F → Margin Filler
+
 Ctrl + Alt + D → Full Bleed Filler
 
 📖 **Usage**
