@@ -17,6 +17,10 @@ This Adobe InDesign script copies the filename of the selected linked image dire
 This script is super handy when you need to quickly grab image filenames — for example, when organizing assets in Excel, file lists, or documentation.
 If you plan to use it often, consider assigning it to a keyboard shortcut in InDesign for instant access.
 
+📖 **Usage**
+1. Select image, pdf, eps, or whatever
+2. Run the script
+
 **Recommended shortcut:**
 CTRL + ALT + C
 
