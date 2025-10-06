@@ -1,8 +1,4 @@
-**InDesign Rapid Frame Filler**
-
-These scripts let you instantly resize shapes and image frames to perfectly fill your InDesign pages — with bleed or within margins.”
-
-🚀 **Installation**
+🚀**General Installation:**
 
 1. Open Adobe InDesign.
 2. Press Ctrl + Alt + F11 to open the Scripts panel.
@@ -10,9 +6,27 @@ These scripts let you instantly resize shapes and image frames to perfectly fill
 4. Open the folder called Scripts Panel.
 5. Drag & drop both scripts into this folder.
 6. Back in InDesign, the scripts will now appear in your Scripts panel.
-7. Assign keyboard shortcuts for rapid use:
+7. (Optional) Assign keyboard shortcuts for rapid use. (Choose Edit > Keyboard Shortcuts > Scripts)
 
-**Recommended:**
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**InDesign Copy Linked File Name**
+
+This Adobe InDesign script copies the filename of the selected linked image directly to the clipboard — quickly, silently, and without showing alerts.
+
+This script is super handy when you need to quickly grab image filenames — for example, when organizing assets in Excel, file lists, or documentation.
+If you plan to use it often, consider assigning it to a keyboard shortcut in InDesign for instant access.
+
+**Recommended shortcut:**
+CTRL + ALT + C
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------
+
+**InDesign Rapid Frame Filler**
+
+These scripts let you instantly resize shapes and image frames to perfectly fill your InDesign pages — with bleed or within margins.”
+
+**Recommended shortcuts:**
 
 Ctrl + Alt + F → Margin Filler
 
