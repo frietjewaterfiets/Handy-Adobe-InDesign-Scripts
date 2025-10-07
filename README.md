@@ -22,7 +22,7 @@ If you plan to use it often, consider assigning it to a keyboard shortcut in InD
 2. Run the script
 
 **Recommended shortcut:**
-CTRL + ALT + C (EDIT: DO NOT USE THIS SHORTCUT)
+CTRL + ALT + C (EDIT: DO NOT USE THIS AS SHORTCUT)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
