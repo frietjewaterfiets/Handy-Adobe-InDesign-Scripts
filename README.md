@@ -22,7 +22,7 @@ If you plan to use it often, consider assigning it to a keyboard shortcut in InD
 2. Run the script
 
 **Recommended shortcut:**
-CTRL + ALT + C (EDIT: DO NOT USE THIS AS SHORTCUT)
+CTRL + ALT + C (BUT this will overwrite 'Fit frame to content', which sucks. So maybe find a better shortcut). 
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 
