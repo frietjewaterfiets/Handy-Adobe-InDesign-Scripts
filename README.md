@@ -4,8 +4,8 @@
 2. Press Ctrl + Alt + F11 to open the Scripts panel.
 3. Right-click the User folder and choose Show in Explorer (or Finder on Mac).
 4. Open the folder called Scripts Panel.
-5. Drag & drop both scripts into this folder.
-6. Back in InDesign, the scripts will now appear in your Scripts panel.
+5. Drag & drop the script(s) into this folder.
+6. Back in InDesign, the script(s) will now appear in your Scripts panel.
 7. (Optional) Assign keyboard shortcuts for rapid use. (Choose Edit > Keyboard Shortcuts > Scripts)
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
